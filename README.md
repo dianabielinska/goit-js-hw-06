@@ -1,1 +1,1 @@
-Homework №4 - JavaScript 
+Homework №6 - JavaScript 
